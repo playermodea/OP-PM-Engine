@@ -1,0 +1,6 @@
+﻿  OGRenderUtil.cpp
+c:\users\유준혁\desktop\과제\3d게임그래픽스엔진개발\기말과제\enginesolution\pmengine\source\ogrenderutil.cpp(24): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\유준혁\desktop\과제\3d게임그래픽스엔진개발\기말과제\enginesolution\pmengine\source\ogrenderutil.cpp(25): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\유준혁\desktop\과제\3d게임그래픽스엔진개발\기말과제\enginesolution\pmengine\source\ogrenderutil.cpp(27): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\유준혁\desktop\과제\3d게임그래픽스엔진개발\기말과제\enginesolution\pmengine\source\ogrenderutil.cpp(29): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+  PMEngine.vcxproj -> C:\Users\유준혁\Desktop\과제\3D게임그래픽스엔진개발\기말과제\EngineSolution\Debug\PMEngine.lib
